@@ -1,1 +1,1 @@
-# Front-End-Development-Libraries-Projects
+# Front-End-Development-Library-Projects
